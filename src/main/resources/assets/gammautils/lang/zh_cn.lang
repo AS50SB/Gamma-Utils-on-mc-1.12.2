@@ -1,0 +1,5 @@
+key.gamma_toggle.desc=切换伽马
+key.gamma_up.desc=增加伽马
+key.gamma_down.desc=减少伽马
+key.nightvision_toggle.desc=切换夜视
+key.categories.gammautils=伽马工具

@@ -1,0 +1,5 @@
+key.gamma_toggle.desc=Toggle Gamma
+key.gamma_up.desc=Increase Gamma  
+key.gamma_down.desc=Decrease Gamma
+key.nightvision_toggle.desc=Toggle Night Vision
+key.categories.gammautils=Gamma Utils

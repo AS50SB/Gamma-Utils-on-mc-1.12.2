@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gammautils",
+  "name": "Gamma Utils",
+  "description": "Gamma / Brightness / Night Vision mod, making it easy to see in the dark.(on mc 1.12.2 Forge)",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["E&B","Deepseek"],
+  "credits": "Code by Deepseek AI,and the inspiration comes from Gamma Utils mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
